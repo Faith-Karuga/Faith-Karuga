@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Lenah
 
 - 💻 I’m a Computer Science graduate
-- 🌱 Currently learning: HTML, CSS, and Web Design
+- 🌱 Currently working with HTML, CSS, JavaScript, SAAS, Tailwind
 - 👯 Looking to collaborate on frontend projects
 - ✨ Fun fact: I love quiet spaces and code at night
 
