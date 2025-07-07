@@ -5,4 +5,4 @@
 - 👯 Looking to collaborate on frontend projects
 - ✨ Fun fact: I love quiet spaces and code at night
 
-📫 Reach me at: lenah@example.com
+📫 Reach me at: faithnjerikaruga@gmail.com
